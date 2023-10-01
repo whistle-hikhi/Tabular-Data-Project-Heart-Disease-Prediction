@@ -5,9 +5,12 @@
 - [Dataset and Objectives](#dataset-and-objectives)
 - [Results](#results)
 
-# I. Dataset and Objectives
+# Dataset and Objectives
 
-# II. Results
+# Results
+| Name 
+| Name             | Badge                                                                                                                             
+| Amazon Alexa     | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)             
 
 KNeighborsClassifier
 # III. Support Vector Machine
