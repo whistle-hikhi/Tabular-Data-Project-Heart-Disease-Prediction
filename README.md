@@ -8,23 +8,16 @@
 # Dataset and Objectives
 
 # Results
-| Name 
-| Name             | Badge                                                                                                                             
-| Amazon Alexa     | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)             
 
-KNeighborsClassifier
-# III. Support Vector Machine
+| Name              | Badge                                                                                     
+|-------------------|-------                                      
+| KNN               |          
+| SVM               |
+| Naive Bayes       |
+| Decision Tree     |  
+| Random Forest     |
+| Adaboost          |
+| Gradient Adaboost |
+| XGBoost           |
+| Stacking          |
 
-# IV. Naive Bayes
-
-# V. Decision Tree
-
-# VI. Random Forest
-
-# VII. Adaboost
-
-# VIII. Gradient Adaboost
-
-# IX. XGBoost
-
-# X. Stacking
