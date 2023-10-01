@@ -1,5 +1,6 @@
 # Tabular-Data-Project-Heart-Disease-Prediction
 
+You could visit kaggle link to see the code and dataset: (https://www.kaggle.com/code/hngnguynhuy/tabular-data-project-heart-disease-prediction)
 # Table of contents
 - [Table of contents](#table-of-contents)
 - [Dataset and Objectives](#dataset-and-objectives)
